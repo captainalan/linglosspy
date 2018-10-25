@@ -1,1 +1,1 @@
-import lingloss
+from lingloss import Lingloss

@@ -18,7 +18,6 @@ class Lingloss:
         """
 
         if not listsGiven:
-            print("in if")
             self.original_words = original_words.split()
             self.gloss_words = gloss_words.split()
         else:
@@ -50,4 +49,4 @@ class Lingloss:
 
 
 if __name__ == '__main__':
-    print("hello main")
+    pass
